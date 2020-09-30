@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cypress-github-actions/static/css/main.774aecb0.chunk.css",
+    "main.js": "/cypress-github-actions/static/js/main.22548f20.chunk.js",
+    "main.js.map": "/cypress-github-actions/static/js/main.22548f20.chunk.js.map",
+    "runtime-main.js": "/cypress-github-actions/static/js/runtime-main.f48ae138.js",
+    "runtime-main.js.map": "/cypress-github-actions/static/js/runtime-main.f48ae138.js.map",
+    "static/js/2.252a7dcb.chunk.js": "/cypress-github-actions/static/js/2.252a7dcb.chunk.js",
+    "static/js/2.252a7dcb.chunk.js.map": "/cypress-github-actions/static/js/2.252a7dcb.chunk.js.map",
+    "index.html": "/cypress-github-actions/index.html",
+    "precache-manifest.551dc40b8f7a25ed4201d08f77b70582.js": "/cypress-github-actions/precache-manifest.551dc40b8f7a25ed4201d08f77b70582.js",
+    "service-worker.js": "/cypress-github-actions/service-worker.js",
+    "static/css/main.774aecb0.chunk.css.map": "/cypress-github-actions/static/css/main.774aecb0.chunk.css.map",
+    "static/js/2.252a7dcb.chunk.js.LICENSE.txt": "/cypress-github-actions/static/js/2.252a7dcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48ae138.js",
+    "static/js/2.252a7dcb.chunk.js",
+    "static/css/main.774aecb0.chunk.css",
+    "static/js/main.22548f20.chunk.js"
+  ]
+}
