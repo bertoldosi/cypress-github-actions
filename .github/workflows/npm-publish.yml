@@ -4,10 +4,11 @@
 name: Node.js Package
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - 'master'
 
-    
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +18,8 @@ jobs:
         with:
           node-version: 12
       - run: npm ci
-      - run: npm test
+      - run: npm install
+      - run: npm run chrome
 
   publish-npm:
     needs: build
