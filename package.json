@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "npm run cypress",
+    "test": "npm cypress run",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
